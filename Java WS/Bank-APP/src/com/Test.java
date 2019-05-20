@@ -15,6 +15,13 @@ public class Test {
 		
 		Cleark co=new Bank();
 		co.clearkOperations();
+		
+		
+		Manager m=new Bank();
+		m.lockerAccess();
+		
+		
+	
 
 	}
 

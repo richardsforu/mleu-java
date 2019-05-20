@@ -1,6 +1,6 @@
 package com;
 
-public class Bank implements Customer, BankEmployee, Cleark {
+public class Bank implements Customer, BankEmployee, Cleark, Manager {
 
 	@Override
 	public void deposit() {
@@ -25,6 +25,12 @@ public class Bank implements Customer, BankEmployee, Cleark {
 	@Override
 	public void clearkOperations() {
 		System.out.println("--- CLear Operations");
+	}
+	
+
+	@Override
+	public void lockerAccess() {
+		System.out.println("----- LOocker class");
 	}
 
 }
