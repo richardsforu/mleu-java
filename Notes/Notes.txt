@@ -1,7 +1,5 @@
+https://github.com
 User name : ctsjava
 Password: Cognizant#123
-from Super User 055 to All Participants:
-https://github.com/
-from Super User 055 to All Participants:
 Upload zip file format sample: Name_AssociateId_casestudy<Number>
 Ex: Praveen_27654_Casestudy1
