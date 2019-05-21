@@ -1,11 +1,7 @@
 package com;
 
-public interface I1 {
+public interface I2 {
 	
 	void f1();
-	
-	
-	
-	
 
 }
