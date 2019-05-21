@@ -2,4 +2,4 @@ https://github.com
 User name : ctsjava
 Password: Cognizant#123
 Upload zip file format sample: Name_AssociateId_casestudy<Number>
-Ex: Praveen_27654_Casestudy1
+Ex: Praveen_27654_Casestudy1.zip
