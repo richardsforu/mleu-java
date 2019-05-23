@@ -23,6 +23,7 @@ public class Employee {
 		Employee emp = (Employee) obj;
 
 		return (empId == emp.empId && empName.equals(emp.empName));
+		//return Objects.equals(this, emp);
 
 	}
 
