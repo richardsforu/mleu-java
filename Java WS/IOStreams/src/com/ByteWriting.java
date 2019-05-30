@@ -10,12 +10,12 @@ public class ByteWriting {
 
 			FileOutputStream fos = new FileOutputStream("src/abc.txt");
 			
-			String message = "Good Afternoon";
+			String message = "I am Praveen";
 
 			byte[] data = message.getBytes();
 
 			fos.write(data);
-			fos.close();
+			//fos.close();
 			System.out.println("--- Writing is done");
 
 		} catch (Exception e) {

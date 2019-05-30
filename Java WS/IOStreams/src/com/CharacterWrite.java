@@ -8,7 +8,7 @@ public class CharacterWrite {
 		try {
 			
 			FileWriter fw=new FileWriter("src/xyz.txt");
-			String msg="Welcome to Kolkata";
+			String msg="Welcome to Java";
 			fw.write(msg);
 			fw.close();
 			System.out.println("--- Writing is dione ");

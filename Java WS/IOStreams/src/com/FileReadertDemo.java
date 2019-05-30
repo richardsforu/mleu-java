@@ -18,6 +18,8 @@ public class FileReadertDemo {
 			
 			fr.close();
 			
+			System.out.println("--- Done ---");
+			
 			
 		} catch (Exception e) {
 			e.printStackTrace();

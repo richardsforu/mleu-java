@@ -31,7 +31,44 @@ public class Notes {
 	 *  	2. Writer
 	 *  
 	 *  
-	 * 
+	 *  
+	 *       IO Operations 
+	 *       ---------------
+	 *       1. File Operations
+	 *       2. Devices Management
+	 *       3. Objects Operations
+	 *       
+	 *       
+	 *       1. File Operations
+	 *       ----------------------
+	 *       	1. File Class
+	 *       		-> Can be used only to verify file attributes like can read, can write, hidden? etc
+	 *       		-> This class can not write or read data into file
+	 *       		-> This class can create a blank file, and can create directry and directories
+	 *       
+	 *       	-> Byte file Operations
+	 *       		-> FileInputStream -> for reading from files in the binary format
+	 *       		-> FileOutputStream -> for writing the data files in to file in the binary format
+	 *       		
+	 *       
+	 *  		-> Character file Operations
+	 *  			-> FileReader  -> for reading data from the files in the character format
+	 *  			-> FileWriter  -> for writing the data to the files in the character format.
+	 *  
+	 *     2. Devices Management
+		-------------------------------
+				-> InputDevices like Keyboard, Scanner, Web camera etc
+				-> OutputDevices like Monitor, Printer etc
+				
+		
+	 *       3. Objects Operations
+	 *       -----------------------
+	 *       
+	 *       	-> Write entire object data to a file
+	 *       	-> Read entire object data from the file
+	 *       
+	 *       
+	 *       
 	 * 
 	 */
 
